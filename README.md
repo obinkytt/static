@@ -6,4 +6,7 @@
 
 ## Create a new group and attach the following policies: AmazonEC2FullAccess, AmazonVPCFullAccess,AmazonS3FullAccess
 
+![Screenshot 2](https://user-images.githubusercontent.com/4149567/87360109-01a5cf80-c52f-11ea-90b6-2aa80b174af3.jpg)
+
+
 
