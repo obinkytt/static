@@ -16,6 +16,9 @@
 ### Add Rule: Custom TCP Rule, Protocol: TCP, Port Range 8080, Source 0.0.0.0/0 Then add the SSH rule: Protocol: SSH, Port range: 22, From source, use the dropdown and select "My IP." You will need to create a VPC or use the defult VPC. If you have deleted your defualt VPC then you will have to create one. It very simple.
 
 
+![Screenshot 02](https://user-images.githubusercontent.com/4149567/87361032-f81d6700-c530-11ea-8e99-99304473d28d.jpg)
+
+
 
 
 
